@@ -18,9 +18,9 @@ body {
   border-color: rgba(255, 255, 255, .7);
 }
 
-.bth-ghost:hover {
+.btn:hover {
   background-color: rgba(255, 255, 255, .7);
-  color: transparent;
+  color: none;
   border-color: rgba(255, 255, 255, .7);
 }
 
