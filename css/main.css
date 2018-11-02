@@ -1,5 +1,5 @@
 html {
-  font-family: 'Overpass', sans-serif;
+  font-family: "Overpass", sans-serif;
   color: #fff;
 }
 
@@ -20,7 +20,7 @@ body {
 
 .btn:hover {
   background-color: rgba(255, 255, 255, .7);
-  color: none;
+  color: #ff5e3a;
   border-color: rgba(255, 255, 255, .7);
 }
 
@@ -31,5 +31,6 @@ body {
     border-top: none;
     border-left: solid 2px rgba(255, 255, 255, .5);
     border-right: solid 2px rgba(255, 255, 255, .5);
+  }
 
 }
